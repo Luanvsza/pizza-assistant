@@ -157,3 +157,4 @@ while True:
     else:
         falar("Desculpe, não entendi. Por favor, responda apenas sim ou não.")
 #teste da commit#
+#finallytest#
